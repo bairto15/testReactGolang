@@ -1,0 +1,26 @@
+[
+ {
+  "id": "",
+  "name": "Table 12",
+  "struct": null
+ },
+ {
+  "id": "",
+  "name": "Table 22",
+  "struct": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ {
+  "id": "",
+  "name": "Table 32",
+  "struct": [
+   "name 1",
+   "name 2",
+   "name 3"
+  ]
+ }
+]
