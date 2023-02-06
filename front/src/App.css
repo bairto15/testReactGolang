@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  border-bottom: solid 1px gray;
+}
+
+.block_table {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input_name_table {
+  height: 30px;
+  width: 200px;
+  margin: 10px 0px 10px 0px;
+  padding-left: 10px;
+}
+
+.input_name_row {
+  height: 30px;
+  width: 200px;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+.btn_save {
+  height: 35px;
+  width: 215px;
+  margin: 10px 0px 10px 0px;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .input_name_table {
+    width: 80%;
+    padding-left: 10px;
+  }
+
+  .input_name_row {
+    width: 80%;
+  }
+
+  .btn_save {
+    width: 85%;
+  }
+}
